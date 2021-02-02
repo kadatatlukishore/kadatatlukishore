@@ -2,6 +2,6 @@
 
 ### Engineering student in NIT Nagaland
 
-### contact me: [linkedin](www.linkedin.com/in/kadatatlukishore)
+### contact me: [linkedin](https://www.linkedin.com/in/kadatatlukishore)
 
 
