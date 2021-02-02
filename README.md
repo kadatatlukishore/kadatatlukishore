@@ -6,7 +6,7 @@
 
 *****
 
-#### :heart: I'm currently working on a project related data analysis
+#### :memo: I'm currently working on a project related data analysis
 #### :star: I'm currently learning ML, DL
 #### :chart_with_upwards_trend: I believe in consistency
 #### :dart: Goal : Data scientist
