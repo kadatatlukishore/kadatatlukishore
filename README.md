@@ -1,16 +1,18 @@
 ### Hello everyone👋.  I'm Kishore.
 
 #### Engineering student@NIT Nagaland
+<h3 align="center">I'm a Data Science enthusiast </h3>
+<p align= "center"><img src="https://github.com/amboulouma/amboulouma/blob/master/animation.gif" width="250" height="250"></p>
 
 #### Reach me: [linkedin](https://www.linkedin.com/in/kadatatlukishore)
 
 *****
+- 🔭 I’m currently working on **Data Science**
 
-#### :memo: I'm currently working on a project related data analysis
-#### :star: I'm currently learning ML, DL
-#### :chart_with_upwards_trend: I believe in consistency
-#### :dart: Goal : Data scientist
-#### :100: Dreamer
+- 🌱 I’m currently learning **Machine Learning**
+- :chart_with_upwards_trend: I believe in consistency
+- :dart: Goal : Data scientist
+- :100: Dreamer
 
 ### Programming Languages:
 [<img target="_blank" src="https://ih1.redbubble.net/image.411682602.8572/st,small,845x845-pad,1000x1000,f8f8f8.u2.jpg" width=50>](https://www.python.org)
