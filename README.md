@@ -2,7 +2,7 @@
 
 #### Engineering student@NIT Nagaland
 
-#### connect with me: [linkedin](https://www.linkedin.com/in/kadatatlukishore)
+#### Reach me: [linkedin](https://www.linkedin.com/in/kadatatlukishore)
 
 *****
 
