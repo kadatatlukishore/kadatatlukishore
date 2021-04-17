@@ -7,12 +7,11 @@
 #### Reach me: [linkedin](https://www.linkedin.com/in/kadatatlukishore)
 
 *****
-- 🔭 I’m currently working on **Data Science**
+- 🔭 I’m currently working on **Data Engineering and Machine Learning Intern**
 
-- 🌱 I’m currently learning **Machine Learning**
-- :chart_with_upwards_trend: I believe in consistency
+- 🌱 I’m currently learning **Time Series Forecasting**
+
 - :dart: Goal : Data scientist
-- :100: Dreamer
 
 ### Programming Languages:
 [<img target="_blank" src="https://ih1.redbubble.net/image.411682602.8572/st,small,845x845-pad,1000x1000,f8f8f8.u2.jpg" width=50>](https://www.python.org)
