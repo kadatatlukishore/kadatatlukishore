@@ -9,7 +9,7 @@
 *****
 - 🔭 I’m currently working on **Data Engineering and Machine Learning Intern**
 
-- 🌱 I’m currently learning **Time Series Forecasting**
+- 🌱 I’m currently learning **Anomaly Detection**
 
 - :dart: Goal : Data scientist
 
