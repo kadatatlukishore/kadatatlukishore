@@ -13,6 +13,10 @@
 <img target="_blank" src="https://d1.awsstatic.com/asset-repository/products/amazon-rds/1024px-MySQL.ff87215b43fd7292af172e2a5d9b844217262571.png" width=70>
 [<img target="_blank" src="https://images.contentstack.io/v3/assets/bltefdd0b53724fa2ce/blt280217a63b82a734/5bbdaacf63ed239936a7dd56/elastic-logo.svg" width=90>](https://www.elastic.co/)
 
+### Recent Project:
+#### 1.  Covid Analysis and Forecasting
+**Visit** : [Website Link](https://covid19-india-tracker-and-news.herokuapp.com/)
+
 <a href="https://github.com/kadatatlukishore">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kadatatlukishore&show_icons=true&theme=dracula&line_height=27" alt="Kishore's github stats"/>
 </a>
