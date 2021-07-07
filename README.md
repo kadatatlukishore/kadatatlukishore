@@ -2,7 +2,7 @@
 <h3 align="center">I'm a Data Science enthusiast </h3>
 <p align= "center"><img src="https://github.com/amboulouma/amboulouma/blob/master/animation.gif" width="250" height="250"></p>
 
-- 🔭 I’m currently working as **Data Engineering and Machine Learning Intern**
+- 🔭 I’m currently working as **Data Engineering and Machine Learning Intern** at Everlytics Data Science Pte Ltd
 
 - 🌱 I’m currently learning **Anomaly Detection**
 - **Reach me**: [linkedin](https://www.linkedin.com/in/kadatatlukishore)
