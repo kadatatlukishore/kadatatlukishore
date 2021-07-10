@@ -5,7 +5,9 @@
 - 🔭 I’m currently working as **Data Engineering and Machine Learning Intern** at Everlytics Data Science Pte Ltd
 
 - 🌱 I’m currently learning **Anomaly Detection**
-- **Reach me**: [linkedin](https://www.linkedin.com/in/kadatatlukishore)
+- **Reach me**:    
+<a href="https://www.linkedin.com/in/kadatatlukishore/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img>
+
 
 ### Languages and Tools:
 [<img target="_blank" src="https://ih1.redbubble.net/image.411682602.8572/st,small,845x845-pad,1000x1000,f8f8f8.u2.jpg" width=50>](https://www.python.org)
