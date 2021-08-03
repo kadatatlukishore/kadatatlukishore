@@ -14,6 +14,7 @@
 <img target="_blank" src="https://techskill.sg/wp-content/uploads/2020/07/31-312155_c-programming-language-logo-hd-png-download__1_-removebg-preview.png" width=50>
 <img target="_blank" src="https://d1.awsstatic.com/asset-repository/products/amazon-rds/1024px-MySQL.ff87215b43fd7292af172e2a5d9b844217262571.png" width=70>
 [<img target="_blank" src="https://images.contentstack.io/v3/assets/bltefdd0b53724fa2ce/blt280217a63b82a734/5bbdaacf63ed239936a7dd56/elastic-logo.svg" width=90>](https://www.elastic.co/)
+[<img target="_blank" src="https://git-scm.com/images/logo@2x.png" width=90>](https://git-scm.com/)
 
 ### Recent Project:
 #### 1.  Covid Analysis and Forecasting
