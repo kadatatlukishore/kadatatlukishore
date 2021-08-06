@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working as **Data Engineering and Machine Learning Intern** at Everlytics Data Science Pte Ltd
 
-- 🌱 I’m currently learning **Anomaly Detection**
+- 🌱 I’m currently learning **Anomaly Detection Algorithms**
 - **Reach me**:    
 <a href="https://www.linkedin.com/in/kadatatlukishore/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img>
 
@@ -23,3 +23,7 @@
 <a href="https://github.com/kadatatlukishore">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kadatatlukishore&show_icons=true&theme=dracula&line_height=27" alt="Kishore's github stats"/>
 </a>
+
+---
+
+<h3 align="center">Show some ❤️ by starring some of the repositories!</h3>
