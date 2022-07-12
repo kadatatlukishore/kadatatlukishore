@@ -1,10 +1,8 @@
-### Hello everyone👋,  I'm Kishore. Engineering student@NIT Nagaland
-<h3 align="center">I'm a Data Science enthusiast </h3>
+### Hello everyone👋,  I'm Kishore.
+<h3 align="center">I'm a NERD </h3>
 <p align= "center"><img src="https://github.com/kadatatlukishore/kadatatlukishore/blob/main/animation%20gif.gif" width="250" height="250"></p>
 
-- 🔭 I’m currently working as **Data Engineering and Machine Learning Intern** at Everlytics Data Science Pte Ltd
-
-- 🌱 I’m currently learning **Anomaly Detection Algorithms**
+- 🔭 I’m currently working as **SDE Intern** at Trellix
 - **Reach me**:    
 <a href="https://www.linkedin.com/in/kadatatlukishore/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img>
 
