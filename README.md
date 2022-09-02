@@ -2,7 +2,7 @@
 
 <p align= "center"><img src="https://github.com/kadatatlukishore/kadatatlukishore/blob/main/animation%20gif.gif" width="250" height="250"></p>
 
-- 🔭 I’m currently working as **SDE** at Trellix
+- 🔭 I’m currently working as **Software Engineer** at Trellix
 - **Reach me**:    
 <a href="https://www.linkedin.com/in/kadatatlukishore/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img>
 
