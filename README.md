@@ -14,7 +14,7 @@
 #### 1.  Thread Priority Booster - Kernel Driver [Link](https://github.com/K-OS-Dev/ThreadPriorityChangingDriver/tree/FeatureBranch))
 
 <a href="https://github.com/K-OS-Dev">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=kadatatlukishore&show_icons=true&theme=dracula&line_height=27" alt="Kishore's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=K-OS-Dev&show_icons=true&theme=dracula&line_height=27" alt="Kishore's github stats"/>
 </a>
 
 ---
